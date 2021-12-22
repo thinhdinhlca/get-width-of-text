@@ -1,7 +1,7 @@
 [
   {
     "kind": "column",
-    "name": "Generate feedback sentence from who, what, when, why input",
+    "name": "Get width of text based on font size",
     "description": "",
     "author": "Thinh Dinh <thinh@lowcode.agency>",
     "params": [
