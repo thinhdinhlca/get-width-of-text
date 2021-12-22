@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "Generate feedback sentence from who, what, when, why input",
+    "description": "",
+    "author": "Thinh Dinh <thinh@lowcode.agency>",
+    "params": [
+      {
+        "name": "txt",
+        "displayName": "text",
+        "type": "string"
+      },
+      {
+        "name": "fnt",
+        "displayName": "Font",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
